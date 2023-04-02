@@ -285,10 +285,10 @@ Windows 10, Intel Core i7-6500U Processor, NVIDIAￂﾮ GeForce 940MX Graphics,
 Quad-core (4 Core) 1.80 GHz - Navy Blue - 2 GB LPDDR3 RAM - ARM Mali-T764 -
 Chrome OS - 1366 x 768 16:9 Display – Bluetooth",tech,laptops_csv
 " Acer Aspire R 13 R7-371T-59Q1 - 13.3"""" - Core i5 5200U - 8 GB RAM - 128 GB
-SSD (2x)",tech:non-tech,laptops_csv
+SSD (2x)",non-tech:tech,laptops_csv
 " Apple MacBook - 12"""" - Core m5 - 8 GB RAM - 512 GB flash storage - English",tech,laptops_csv
 " Apple MacBook Air MD711LL/A 11.6"""" Intel i5 1.3 GHz Dual-Core 4GB RAM 128GB
-HD, Refurbished Scratch and Dent",non-tech:tech,laptops_csv
+HD, Refurbished Scratch and Dent",tech:non-tech,laptops_csv
 " HP 15-ba052wm 15.6"""" Laptop, Touchscreen, Windows 10 Home, AMD A10-9600P
 Quad-Core APU Processor, 8GB RAM, 1TB Hard Drive",tech,laptops_csv
 " 12.5"""" Ultra Slim Laptop, Windows 10 Home, Office 365 Personal 1-Year
@@ -518,7 +518,7 @@ I think online education can be a more affordable option for many people.,non-te
 "Smart home technology can make your life more convenient.,1",tech,tech_csv_xlsx
 "Virtual reality has the potential to revolutionize entertainment.,1",tech,tech_csv_xlsx
 "I think robots will become more common in the workplace.,1",tech,tech_csv_xlsx
-"I'm saving up to buy a new gaming console.,1",tech:non-tech,tech_csv_xlsx
+"I'm saving up to buy a new gaming console.,1",non-tech:tech,tech_csv_xlsx
 "The field of biotechnology has the potential to improve many aspects of life.,1",tech,tech_csv_xlsx
 "I'm excited to try the new virtual reality game.,1",tech,tech_csv_xlsx
 "The rise of artificial intelligence is changing the world.,1",tech,tech_csv_xlsx
@@ -650,7 +650,6 @@ How do you make homemade pizza?,non-tech,questions_csv
 How do you make a website from scratch?,tech,questions_csv
 What is your favorite type of cuisine?,non-tech,questions_csv
 How do you write a novel?,non-tech,questions_csv
-What is the best way to learn a new language?,non-tech,questions_csv
 What is your favorite type of sushi?,non-tech,questions_csv
 What is your favorite type of nut?,non-tech,questions_csv
 How do you make scrambled eggs?,non-tech,questions_csv
@@ -665,7 +664,7 @@ How do you change the oil in a car?,tech,questions_csv
 How do I organize my closet efficiently?,non-tech,questions2_csv
 What are some good ways to manage my finances?,non-tech,questions2_csv
 How do I make homemade pizza dough?,non-tech,questions2_csv
-How can I optimize my social media marketing strategy?,non-tech:tech,questions2_csv
+How can I optimize my social media marketing strategy?,tech:non-tech,questions2_csv
 What is the best way to optimize a website for mobile devices?,tech,questions2_csv
 How can I improve my writing skills?,non-tech,questions2_csv
 How can I develop a morning routine that works for me?,non-tech,questions2_csv
@@ -728,7 +727,7 @@ How do I plan a successful event?,non-tech,questions3_csv
 How do I prepare for a graduate school interview?,non-tech,questions3_csv
 How can I develop a successful daily workout routine?,non-tech,questions3_csv
 What are some good ways to improve my memory?,non-tech,questions3_csv
-What are some good ways to improve my problem-solving skills?,non-tech:tech,questions3_csv
+What are some good ways to improve my problem-solving skills?,tech:non-tech,questions3_csv
 What are some good ways to improve my communication skills?,non-tech,questions3_csv
 How can I develop a successful morning meditation routine?,non-tech,questions3_csv
 How can I learn to make homemade bread?,non-tech,questions3_csv
@@ -833,15 +832,14 @@ What are some good ways to secure my online accounts with biometric authenticati
 How can I protect my online accounts with two-factor authentication?,tech,questions4_csv
 How do I upgrade the graphics card in my gaming laptop?,tech,questions4_csv
 How can I recover a corrupted hard drive?,tech,questions4_csv
-What are some effective ways to prevent online harassment?,non-tech:tech,questions4_csv
+What are some effective ways to prevent online harassment?,tech:non-tech,questions4_csv
 What are some effective ways to prevent online stalking?,non-tech,questions4_csv
 How can I recover a forgotten password on my social media account?,tech,questions4_csv
-What are some effective ways to prevent online fraud?,tech:non-tech,questions4_csv
+What are some effective ways to prevent online fraud?,non-tech:tech,questions4_csv
 How can I optimize the storage space on my smartphone?,tech,questions4_csv
 What are some effective ways to prevent online scams?,non-tech:tech,questions4_csv
 How do I troubleshoot display issues with my gaming monitor?,tech,questions4_csv
 How can I optimize my website for search engines?,tech,questions4_csv
-How can I recover deleted files from my computer?,tech,questions4_csv
 How do I install a new graphics card in my computer?,tech,questions4_csv
 How do I optimize the speed of my internet connection?,tech,questions4_csv
 How can I recover deleted photos from my camera?,tech,questions4_csv
@@ -853,7 +851,7 @@ How do I troubleshoot connection issues with my wireless headphones?,tech,questi
 How do I troubleshoot network connection issues?,tech,questions4_csv
 How do I troubleshoot audio issues with my tablet?,tech,questions4_csv
 How do I upgrade the firmware on my smart TV?,tech,questions4_csv
-What are some effective ways to prevent identity theft?,non-tech:tech,questions4_csv
+What are some effective ways to prevent identity theft?,tech:non-tech,questions4_csv
 What are some good ways to backup my important data?,tech,questions4_csv
 How can I improve the Wi-Fi signal strength in my home?,tech,questions4_csv
 How do I upgrade the RAM in my desktop computer?,tech,questions4_csv
@@ -870,3 +868,368 @@ What are some good ways to protect my personal information online?,tech,question
 How can I recover lost contacts on my smartphone?,tech,questions4_csv
 How can I secure my home Wi-Fi network from unauthorized access?,tech,questions4_csv
 What are some effective ways to prevent phishing scams?,tech,questions4_csv
+Diş beyazlatma işlemi için en iyi ve en güvenilir yöntem nedir? Bunları evde kendimiz yapabilir miyiz,non-tech,questions5_csv
+11- Güneş enerjisi sistemleri nasıl çalışır ve ne kadar yaygınlaşmıştır?,tech,questions5_csv
+İnsanların ruh sağlığına en fazla katkı sağlayan etkenler nelerdir ve bu etkenler nasıl arttırılabilir?,non-tech,questions5_csv
+Why is it important to stay hydrated throughout the day?,non-tech,questions5_csv
+Why do some people have a fear of flying?,non-tech,questions5_csv
+Hangi yatırım araçları en güvenli ve karlı yatırım seçenekleri olarak kabul edilir ve nasıl kullanılır?,non-tech,questions5_csv
+4- Yapay zeka teknolojisi sağlık sektöründe nasıl kullanılır ve hangi uygulamaları vardır?,tech,questions5_csv
+What is the difference between vegan and vegetarian diets?,non-tech,questions5_csv
+Gelecekte dünyanın enerji kaynakları nasıl değişecek ve bizler bu değişikliklere nasıl uyum sağlamalıyız?,non-tech,questions5_csv
+Hangi diş fırçası en iyisidir?,non-tech,questions5_csv
+13- Pil ömrünü uzatmak için hangi yöntemler kullanılabilir ve neden önemlidir?,tech,questions5_csv
+Why do some people prefer organic or locally-sourced food?,non-tech,questions5_csv
+How can I improve my public speaking skills?,non-tech,questions5_csv
+How can I improve my focus and concentration during work or study?,non-tech,questions5_csv
+17- Hangi dijital fotoğraf makinesi markaları ve modelleri en iyi fotoğraf kalitesini sağlar?,tech,questions5_csv
+Hamilelikte beslenme nasıl olmalıdır?,non-tech,questions5_csv
+9- Dijital müzik kaydı ve stüdyo ekipmanları hakkında bilinmesi gerekenler nelerdir?,tech,questions5_csv
+Yeni bir dil öğrenmenin en etkili yolu nedir ve neden?,non-tech,questions5_csv
+3- Dünya genelinde en çok kullanılan sosyal medya platformları nelerdir ve popülerlikleri neye bağlıdır?,tech:non-tech,questions5_csv
+How can I reduce my carbon footprint and live a more eco-friendly lifestyle?,non-tech,questions5_csv
+Düzenli uyku almak neden önemlidir?,non-tech,questions5_csv
+How can I overcome procrastination and be more productive?,non-tech,questions5_csv
+Hangi yüzme stilini öğrenmek daha kolaydır?,non-tech,questions5_csv
+Hangi yeni teknolojik yenilikler gelecekte hayatımızı nasıl değiştirebilir ve etkileyebilir?,tech,questions5_csv
+Hangi sporlar ve egzersizler depresyon,non-tech,questions5_csv
+Şarjı hızlı biten telefonlar için önerileriniz nelerdir?,tech,questions5_csv
+What is the best way to start a small business?,non-tech,questions5_csv
+10- Yapısal olarak zarar görmüş beton duvarların onarımı nasıl yapılır ve hangi teknikler kullanılır?,non-tech:tech,questions5_csv
+Hangi akıllı telefon kamerası en iyisidir?,tech,questions5_csv
+İyi bir kulaklık nasıl seçilir?,tech,questions5_csv
+12- Havadaki nem oranı nasıl ölçülür ve hangi uygulamaları vardır?,tech,questions5_csv
+How can I improve my time management skills?,non-tech,questions5_csv
+Why do some people have a fear of public speaking?,non-tech,questions5_csv
+1- Hangi programlama dilleri en popülerdir ve neden?,tech,questions5_csv
+Akne nasıl tedavi edilir?,non-tech,questions5_csv
+Apple'ın M1 işlemcisi nedir ve ne kadar iyi?,tech,questions5_csv
+Hangi moda trendleri en son ve popüler ve nasıl stil sahibi olunur?,non-tech,questions5_csv
+Yapay zeka insanların işlerini ne kadar süre içinde yerine getirebilir ve insanların iş gücüne ne gibi etkileri olabilir?,tech,questions5_csv
+What is the best way to prepare for a job interview?,non-tech,questions5_csv
+Kablosuz şarj cihazı seçerken nelere dikkat etmeliyim?,tech,questions5_csv
+Teknolojik gelişmeler insan sağlığına nasıl etki ediyor,tech,questions5_csv
+Bir arabada kaç adet hava yastığı olmalıdır?,non-tech:tech,questions5_csv
+Hangi yemek tarifleri sağlıklı beslenmeyi destekler ve daha uzun ve sağlıklı bir yaşam için önerilir?,non-tech,questions5_csv
+Instagram hesabım çalındı,tech,questions5_csv
+14- İşletmeler için bulut bilişim teknolojisi nasıl kullanılır ve hangi avantajları sağlar?,tech,questions5_csv
+Why is it important to have a good support system in life?,non-tech,questions5_csv
+How can I improve my relationship with food and develop a healthy relationship with eating?,non-tech,questions5_csv
+Hangi web siteleri ve uygulamalar en iyi online eğitim ve öğrenme kaynaklarıdır?,tech,questions5_csv
+How can I improve my credit score and financial standing?,non-tech,questions5_csv
+Hangi işletim sistemi daha iyi: Windows mu,tech,questions5_csv
+Hangi film türü en çok sevilir?,non-tech,questions5_csv
+Düzenli egzersiz yapmak neden önemlidir?,non-tech,questions5_csv
+Gıda güvenliği konusunda en önemli riskler nelerdir ve bu riskleri nasıl azaltabiliriz?,non-tech,questions5_csv
+Why do some people prefer tea over coffee?,non-tech,questions5_csv
+How can I improve my communication skills in personal and professional relationships?,non-tech,questions5_csv
+How can I deal with difficult coworkers or bosses?,non-tech,questions5_csv
+6- Bitcoin ve diğer kripto para birimleri hakkında bilinmesi gerekenler nelerdir?,tech,questions5_csv
+2- Robotik süpürgeler ev temizliğinde ne kadar etkilidir ve ne kadar yaygınlaşmıştır?,tech,questions5_csv
+16- İnternet güvenliği için alınabilecek önlemler nelerdir ve hangi uygulamaları vardır?,tech,questions5_csv
+23- Elektrikli araçlar için şarj istasyonları nasıl çalışır ve hangi şirketler öne çıkmaktadır?,tech,questions5_csv
+Why do some people prefer cats over dogs?,non-tech,questions5_csv
+İnsanların sevdikleri işleri yapmaları için nasıl bir ortam sağlanmalıdır ve bu ortamın özellikleri nelerdir?,non-tech,questions5_csv
+Bir insanın kişisel gelişimine en fazla nasıl katkı sağlarız ve bu konuda en önemli etkenler nelerdir?,non-tech,questions5_csv
+Hangi teknolojik cihazlar ve aletler en son trendler ve güncellemeleri takip ederek güvenliği en iyi sağlar?,tech,questions5_csv
+What are the benefits of practicing mindfulness meditation?,non-tech,questions5_csv
+Hangi egzersizler ve diyetler göbeğimizi eritmek ve karın kaslarımızı güçlendirmek için en etkilileridir?,non-tech,questions5_csv
+Hangi spor salonu en iyisidir?,non-tech,questions5_csv
+Why do some people prefer working from home over going into an office?,non-tech,questions5_csv
+20- Giyilebilir teknolojiler hangi amaçlarla kullanılır ve hangi markalar öne çıkmaktadır?,non-tech:tech,questions5_csv
+22- Dünya genelinde en çok kullanılan mesajlaşma uygulamaları nelerdir ve popülerlikleri neye bağlıdır?,tech,questions5_csv
+What are the benefits of taking a daily multivitamin?,non-tech,questions5_csv
+İnsanlar neden doğayı kirletir ve doğal kaynakları tüketirler ve bunu nasıl engelleyebiliriz?,non-tech,questions5_csv
+Yabancı dil öğrenmenin en iyi yolu nedir?,non-tech,questions5_csv
+19- Hangi dijital müzik servisleri en geniş müzik kataloğuna sahiptir ve hangi özellikleri vardır?,tech,questions5_csv
+What are some natural remedies for common ailments like headaches or colds?,non-tech,questions5_csv
+What are some healthy meal ideas for a vegetarian diet?,non-tech,questions5_csv
+Hangi dil öğrenme yöntemleri en etkili ve önerilenler arasındadır ve nasıl kullanılır?,non-tech,questions5_csv
+Why do some people have a fear of heights or vertigo?,non-tech,questions5_csv
+Hayvanların hakları konusunda ne düşünüyorsunuz ve hayvan haklarını korumanın önemi nedir?,non-tech,questions5_csv
+What is the best way to maintain a healthy work-life balance?,non-tech,questions5_csv
+What are some tips for staying motivated and avoiding burnout?,non-tech,questions5_csv
+SSD disk nedir ve HDD diskten ne farkı vardır?,tech,questions5_csv
+Hangi müzik aleti en kolay öğrenilir?,non-tech,questions5_csv
+Depresyondan nasıl kurtulabilirim?,non-tech,questions5_csv
+Birkaç kilo vermek için ne yapabilirim?,non-tech,questions5_csv
+En iyi fotoğraf makinesi hangisidir?,tech,questions5_csv
+Hangi sanat türleri ve sanatçılar psikolojik açıdan iyi oluşu destekler ve zihinsel sağlık için önerilir?,non-tech,questions5_csv
+Hangi otomobil markası güvenliği ve teknolojik özellikleriyle öne çıkıyor ve hangi modelleri tavsiye edersiniz?,tech,questions5_csv
+Evlerimizi dekore ederken nasıl estetik kararlar almalı ve mekânları güzelleştirmeliyiz?,non-tech,questions5_csv
+What is the most effective way to learn a new language?,non-tech,questions5_csv
+What is the best way to train a puppy?,non-tech,questions5_csv
+Hangi online platformlar en iyi ücretsiz eğitim ve öğrenme kaynakları sunar ve nasıl erişilebilirler?,tech,questions5_csv
+Why is it important to practice self-care and prioritize mental health?,non-tech,questions5_csv
+Why is exercise important for overall health and well-being?,non-tech,questions5_csv
+How can I become more organized in my daily life?,non-tech,questions5_csv
+Bilgisayarımın işletim sistemi yavaşladı ve performansı düştü,tech,questions5_csv
+Gelecekte seyahatlerimizi nasıl planlamalıyız,non-tech,questions5_csv
+How can I become a better writer?,non-tech,questions5_csv
+Hangi müzik türleri ve sanatçılar daha sakinleştirici ve rahatlatıcı etkilere sahiptir ve stresle başa çıkmak için önerilir?,non-tech,questions5_csv
+8- Hangi tür oyun fareleri ve klavyeleri en iyi performansı sağlar ve oyuncular için neden önemlidir?,tech,questions5_csv
+Hamilelikte egzersiz yapmak zararlı mıdır?,non-tech,questions5_csv
+Gözlük takmak göz bozukluğunu düzeltir mi?,non-tech,questions5_csv
+What are some effective strategies for conflict resolution in relationships?,non-tech,questions5_csv
+Medyanın insanlar üzerindeki etkisi nedir ve bu etkiyi nasıl sınırlandırabiliriz?,non-tech,questions5_csv
+What are some effective stress-relief techniques?,non-tech,questions5_csv
+Gelecekte iş hayatı nasıl değişecek ve bu değişikliklere nasıl uyum sağlayabiliriz?,non-tech,questions5_csv
+Bir bilgisayar kasasında kaç fan olmalıdır?,tech,questions5_csv
+What are the best ways to prevent and treat back pain?,non-tech,questions5_csv
+Hangi müzik türü en çok dinlenir?,non-tech,questions5_csv
+21- Hangi internet tarayıcıları en hızlı ve en güvenli performansı sağlar ve neden önemlidir?,tech,questions5_csv
+What are some effective study techniques for students?,non-tech,questions5_csv
+Eski bir bilgisayarı hızlandırmak için ne yapabilirim?,tech,questions5_csv
+How can I become more confident and assertive in my daily life?,non-tech,questions5_csv
+Hangi hobiler ve etkinlikler ruh sağlığı,non-tech,questions5_csv
+Bilgisayarın açılması çok uzun sürüyor,tech,questions5_csv
+Uzun vadeli bir ilişkinin sırrı nedir ve neden?,non-tech,questions5_csv
+Hangi kitaplar en çok satılmaktadır?,non-tech,questions5_csv
+Kablosuz kulaklık seçerken nelere dikkat etmeliyim?,tech,questions5_csv
+What are the benefits of using a standing desk at work?,non-tech,questions5_csv
+İnternet güvenliği ve kişisel veri gizliliği konusunda hangi adımlar ve önlemler alınabilir? Hangi yazılımlar ve uygulamalar daha güvenli ve önerilenlerdir?,tech,questions5_csv
+Bir yazılımcı ne kadar kazanır?,tech,questions5_csv
+What are some tips for creating and sticking to a workout routine?,non-tech,questions5_csv
+Why do some people experience difficulty sleeping?,non-tech,questions5_csv
+İnsanlar neden alışveriş yaparlar ve alışveriş yaparken nelere dikkat etmelidirler?,non-tech,questions5_csv
+Hangi bisiklet markası en iyisidir?,non-tech,questions5_csv
+Hangi finansal stratejiler kredi skoru,non-tech,questions5_csv
+How can I prevent myself from getting sick during flu season?,non-tech,questions5_csv
+What is the best way to handle and manage stress in the workplace?,non-tech,questions5_csv
+How can I develop and maintain a regular meditation practice?,non-tech,questions5_csv
+Hangi yazılımlar ve uygulamalar iş verimliliğimizi artırmak ve daha iyi organize olmak için kullanışlıdır?,tech,questions5_csv
+Yumurtayı nasıl pişirmeliyim?,non-tech,questions5_csv
+Hangi seyahat destinasyonları doğa,non-tech,questions5_csv
+5- Online satın alınan ürünlerin geri dönüşü nasıl yapılır ve süreç nasıl işler?,non-tech,questions5_csv
+15- Hangi programlama dilleri veri bilimi ve yapay zeka uygulamaları için en iyi performansı sağlar?,tech,questions5_csv
+Çocuklara nasıl müzik dinletmeli ve onların müzik zevklerini geliştirmeliyiz?,non-tech,questions5_csv
+İnsanların motivasyonu nasıl arttırılır ve motivasyonun uzun dönemdeki etkisi nedir?,non-tech,questions5_csv
+Hangi programlama dilleri şu anda en popüler ve talep görüyor ve hangilerini öğrenmek iş imkanlarımı artırır?,tech,questions5_csv
+Kediler hangi yiyecekleri yiyemezler?,non-tech,questions5_csv
+7- Mobil uygulama geliştirme süreci nasıl işler ve hangi programlama dilleri kullanılır?,tech,questions5_csv
+4x4 arazi aracı alırken nelere dikkat etmeliyim?,tech:non-tech,questions5_csv
+Why is it important to have a work-life balance?,non-tech,questions5_csv
+Bir insanın zekası ne ölçüde kalıtımsaldır ve ne ölçüde çevresel faktörlere bağlıdır?,non-tech,questions5_csv
+Why do some people experience anxiety or panic attacks?,non-tech,questions5_csv
+What are some tips for improving indoor air quality in the home?,non-tech,questions5_csv
+How can I improve my creative thinking and problem-solving skills?,non-tech,questions5_csv
+What is the best way to budget and save money?,non-tech,questions5_csv
+Sanatın insan hayatındaki önemi nedir ve toplumların kültürel gelişimine nasıl katkı sağlar?,non-tech,questions5_csv
+Haftada kaç kez spor yapılmalıdır?,non-tech,questions5_csv
+Yüzme öğrenmek kaç ders sürer?,non-tech,questions5_csv
+Hangi doğal güzellik ürünleri cilt bakımı için önerilir ve sağlıklı cilt için nasıl kullanılır?,non-tech,questions5_csv
+En iyi oyun laptopu hangisi?,tech,questions5_csv
+Hangi yemek tarifi en kolaydır?,non-tech,questions5_csv
+18- Evde yapılabilecek yoga egzersizleri hakkında bilinmesi gerekenler nelerdir ve hangi uygulamalar kullanılabilir?,non-tech,questions5_csv
+Karpuz nasıl seçilir?,non-tech,questions5_csv
+Hangi dijital cihazlar ve teknolojik aletler işlerimizi daha kolaylaştırabilir ve verimliliğimizi artırabilir?,tech,questions5_csv
+Akıllı telefonumda batarya ömrünü nasıl uzatabilirim?,tech,questions5_csv
+Hangi programlama dili en çok kullanılıyor?,tech,questions5_csv
+How can I improve my memory and concentration?,non-tech,questions5_csv
+What is the difference between a router and a switch?,tech,questions6_csv
+Yapay zeka nedir ve nasıl çalışır?,tech,questions6_csv
+Adobe Premiere Pro ile video düzenleme nasıl yapılır?,tech,questions6_csv
+Bilgisayarımın fanının gürültüsünü nasıl azaltabilirim ve hangi programlar kullanılabilir?,tech,questions6_csv
+YouTube'da en çok para kazandıran video türleri nelerdir?,tech,questions6_csv
+Bilgisayarımda donanımsal bir sorun olduğunu nasıl anlarım?,tech,questions6_csv
+Facebook reklam kampanyalarında hedef kitle nasıl belirlenir?,tech,questions6_csv
+Veri tabanı yönetimi için kullanılabilecek en popüler araçlar nelerdir ve nasıl kullanılırlar?,tech,questions6_csv
+Yeni bir bilgisayar almadan önce hangi özellikleri araştırmalıyım?,tech,questions6_csv
+Masaüstü bilgisayarlarda fan temizliği nasıl yapılır?,tech,questions6_csv
+Internet of Things (IoT) nedir ve hayatımızı nasıl etkiler?,tech,questions6_csv
+Bilgisayar virüslerini nasıl tespit ederim ve nasıl temizlerim?,tech,questions6_csv
+How can I improve my typing speed and accuracy on a computer keyboard?,tech,questions6_csv
+How can I improve the performance of my graphics card in a computer?,tech,questions6_csv
+Hangi SSD markası daha hızlı performans sunar?,tech,questions6_csv
+E-ticaret sitelerinde müşteri memnuniyeti için neler yapılabilir?,tech,questions6_csv
+Güvenli bir şifre nasıl oluşturulur?,tech,questions6_csv
+Yeni bir telefona geçerken ne tür verilerimi aktarabilirim?,tech,questions6_csv
+Güvenli bir şifre oluşturmak için ipuçları nelerdir?,tech,questions6_csv
+How to secure your Wi-Fi network from hackers?,tech,questions6_csv
+Bir çamaşır makinesi ne kadar sıklıkta temizlenmelidir?,tech,questions6_csv
+Video oyunu geliştirme süreci nasıl ilerler?,tech,questions6_csv
+JavaScript'te arrow function'lar nasıl kullanılır ve ne işe yarar?,tech,questions6_csv
+Mobil uygulama güvenliği için neler yapılmalıdır?,tech,questions6_csv
+Yeni bir bilgisayar alırken nelere dikkat etmeliyim ve hangi bileşenler önemlidir?,tech,questions6_csv
+Android cihazlarda pil ömrünü uzatmak için neler yapılabilir?,tech,questions6_csv
+Hangi teknoloji trendleri yakın gelecekte daha popüler olacak?,tech,questions6_csv
+En sevdiğin yemek nedir? (What is your favorite food?),non-tech,questions6_csv
+Hangi ülkelerde internet erişimi en yaygındır?,tech,questions6_csv
+Bilgisayar parçalarının ömrü ne kadar sürer ve nasıl korunur?,tech,questions6_csv
+What is the difference between encryption and hashing,tech,questions6_csv
+How do I connect my phone to my TV?,tech,questions6_csv
+Bilgisayarımın performansını artırmak için hangi bileşenleri yükseltmeliyim ve nasıl yapabilirim?,tech,questions6_csv
+Nesnelerin İnterneti (IoT) teknolojisi,tech,questions6_csv
+What is the purpose of a firewall in computer networks?,tech,questions6_csv
+Yüksek kaliteli fotoğraflar çekmek için hangi ayarlar kullanılmalıdır?,tech,questions6_csv
+How can I extend the battery life of my laptop?,tech,questions6_csv
+Adobe Illustrator'da vektörel tasarım yapmanın avantajları nelerdir?,tech,questions6_csv
+What are the best tools for remote collaboration and communication?,tech,questions6_csv
+Hangi ülkelerde sağlık sistemi en gelişmiş durumda?,non-tech,questions6_csv
+Ses kaydı yapmak için hangi programları kullanabilirim ve hangi ayarları yapmalıyım?,tech,questions6_csv
+Evde kolayca yapabileceğimiz tamir işleri nelerdir?,non-tech:tech,questions6_csv
+How can we use machine learning algorithms to improve the accuracy of predictive analytics models?,tech,questions6_csv
+What are the top programming languages to learn in 2022?,tech,questions6_csv
+Mobil uygulama geliştirirken kullanılabilecek en etkili araçlar nelerdir?,tech,questions6_csv
+What is the difference between a router and a modem in a home network?,tech,questions6_csv
+Hangi akıllı saat markası ve modeli seçmeliyim ve hangi özellikler tercih edilmelidir?,tech,questions6_csv
+Hangi akıllı telefon daha uzun pil ömrüne sahiptir?,tech,questions6_csv
+Büyük veri yönetimi için hangi veri tabanı sistemleri en uygun seçimlerdir?,tech,questions6_csv
+Hangi programlama dili öğrenmek için başlangıç seviyesinde bir kaynak önerirsiniz?,tech,questions6_csv
+Hangi online eğitim platformu en iyi ve en uygun fiyatlıdır?,tech,questions6_csv
+Hangi müzik çalma uygulaması en iyi ses kalitesine sahiptir?,tech,questions6_csv
+Hangi dijital kamera markası en iyi video kalitesini sağlar?,tech,questions6_csv
+What are some common cybersecurity threats and how can they be prevented?,tech,questions6_csv
+What are the differences between a software developer and a software engineer?,tech,questions6_csv
+Nasıl bir web sitesi tasarımı,tech,questions6_csv
+Instagram'da sponsorlu içerik nasıl belirlenir ve nasıl yayınlanır?,tech,questions6_csv
+Nasıl daha iyi bir dijital çalışma ortamı yaratabilirim?,tech,questions6_csv
+Hangi oyun konsolu daha iyi performans ve grafik kalitesi sağlar?,tech,questions6_csv
+Hangi dijital not defteri uygulaması en iyi performansa sahiptir?,tech,questions6_csv
+How can I troubleshoot a network connectivity issue?,tech,questions6_csv
+Dünya genelindeki en yaygın sosyal medya platformları nelerdir ve nasıl kullanılırlar?,tech,questions6_csv
+What are the benefits of using a VPN on my computer?,tech,questions6_csv
+What are some common data structures used in programming and how do they work?,tech,questions6_csv
+Hangi laptop markası ve modeli seçmeliyim ve hangi özellikler tercih edilmelidir?,tech,questions6_csv
+What are the top programming languages to learn for web development?,tech,questions6_csv
+İnternet bağlantımı güvenli hale getirmek için neler yapabilirim?,tech,questions6_csv
+Hangi bilgisayar parçaları oyuncular için daha iyi performans sağlar?,tech,questions6_csv
+How can I reset my phone to its factory settings?,tech,questions6_csv
+What are some tips for improving my productivity while working from home?,non-tech,questions6_csv
+Programlamada verimlilik nasıl artırılabilir?,tech,questions6_csv
+What is the role of APIs in modern web development and how can they be used effectively?,tech,questions6_csv
+What are some common programming languages used in web development?,tech,questions6_csv
+How can I improve my computer's performance?,tech,questions6_csv
+What is the difference between HTML and CSS?,tech,questions6_csv
+Python ile veri analizi nasıl yapılır?,tech,questions6_csv
+Kuru temizleme yöntemi ile hangi kıyafetler temizlenir?,non-tech,questions6_csv
+How can I protect my computer from viruses and malware?,tech,questions6_csv
+What is the difference between a JPEG and a PNG image file?,tech,questions6_csv
+What is the difference between RAM and ROM in a computer?,tech,questions6_csv
+What are the benefits and limitations of cloud computing for businesses?,tech,questions6_csv
+Hangi kamera lensi ne işe yarar?,tech,questions6_csv
+Ekran kartı güncelleme nasıl yapılır?,tech,questions6_csv
+Bir web sitesi oluşturmak için hangi programlama dilleri kullanabilirim ve hangi hosting şirketleri tercih edilmelidir?,tech,questions6_csv
+How can we use data visualization to make complex information more easily understandable?,tech,questions6_csv
+Bir oyun geliştirmek için neler gereklidir ve hangi programlama dilleri tercih edilmelidir?,tech,questions6_csv
+İlk programlama dili olarak hangisini öğrenmeliyim?,tech,questions6_csv
+USB belleklerin ömrü ne kadar sürer?,tech,questions6_csv
+Hangi web tarayıcısı daha hızlı ve güvenli?,tech,questions6_csv
+Hayatımızın amacını nasıl bulabiliriz?,non-tech,questions6_csv
+What are the advantages and disadvantages of using cloud storage for my files?,tech,questions6_csv
+Kablosuz şarj cihazı nasıl kullanılır?,tech,questions6_csv
+Türkiye'de kaç tane şehir vardır? (How many cities are there in Turkey?),non-tech,questions6_csv
+Instagram hesabımın hacklenmesi durumunda ne yapabilirim ve hesabımı korumak için hangi önlemleri alabilirim?,tech,questions6_csv
+How can I recover a forgotten password for my email account?,tech,questions6_csv
+What programming languages are used for web development?,tech,questions6_csv
+Mobil uygulama nasıl yapılır?,tech,questions6_csv
+Güvenli bir ağ oluşturmak için nelere dikkat etmeliyim?,tech,questions6_csv
+What is the difference between a software and a program?,tech,questions6_csv
+How can I speed up my internet connection?,tech,questions6_csv
+How can I protect my computer from viruses?,tech,questions6_csv
+How can I recover deleted files from my computer or phone?,tech,questions6_csv
+En sevdiğin TV dizisi nedir? (What is your favorite TV series?),non-tech,questions6_csv
+Hangi programlama dilleri ile yapay zeka ve makine öğrenmesi projeleri oluşturabilirim?,tech,questions6_csv
+What is the difference between an operating system and a utility program?,tech,questions6_csv
+How to optimize a website for search engines?,tech,questions6_csv
+Hangi dijital güvenlik aracı en iyi korumaya sahiptir?,tech,questions6_csv
+Yeni bir dil öğrenirken nelere dikkat etmeliyim ve hangi kaynakları kullanabilirim?,non-tech,questions6_csv
+Hangi akıllı telefon markası en yüksek kamera çözünürlüğünü sağlar?,tech,questions6_csv
+Laptopumda bir program nasıl kaldırılır?,tech,questions6_csv
+What is the difference between a hard disk drive and a solid-state drive?,tech,questions6_csv
+Hangi video oyun konsolu en iyi performansı sunar?,tech,questions6_csv
+İnternet hızımın düşük olmasının nedenleri nelerdir ve nasıl çözülebilir?,tech,questions6_csv
+Hangi ülke en yüksek yaşam standartlarına sahiptir?,non-tech,questions6_csv
+En güvenli bulut depolama sağlayıcıları hangileridir?,tech,questions6_csv
+How can I speed up my slow laptop?,tech,questions6_csv
+İleri seviye veri analizi için kullanılan en popüler programlama dilleri hangileridir?,tech,questions6_csv
+En yaygın Windows hatalarından bazıları nelerdir ve bunları nasıl çözebilirim?,tech,questions6_csv
+How can I recover a forgotten password for my email or social media account?,tech,questions6_csv
+What is the difference between software and hardware in a computer?,tech,questions6_csv
+WordPress ile e-ticaret sitesi nasıl oluşturulur?,tech,questions6_csv
+Twitter'da trending topic nedir ve nasıl belirlenir?,tech,questions6_csv
+Yeni bir laptop satın alırken nelere dikkat etmeliyim?,tech,questions6_csv
+Günümüzde en popüler sosyal medya uygulaması hangisidir?,tech,questions6_csv
+Hangi internet sağlayıcısı daha hızlı ve daha güvenilirdir?,tech,questions6_csv
+Telefonumda kaybolan verilerimi geri nasıl getirebilirim ve hangi programları kullanabilirim?,tech,questions6_csv
+Yapay zeka alanındaki en yenilikçi teknolojiler nelerdir ve hangi alanlarda kullanılırlar?,tech,questions6_csv
+Nasıl daha iyi bir internet hızı elde edebilirim?,tech,questions6_csv
+"Telefonumda sürekli olarak karşılaştığım ""ağ hatası"" sorunu nasıl çözülebilir?",tech,questions6_csv
+How can we improve the performance of a web application?,tech,questions6_csv
+How do I improve the battery life of my smartphone?,tech,questions6_csv
+Püskürtmeli sulama sistemi nasıl kurulur?,tech,questions6_csv
+Hangi ayakkabı markası en rahat ve dayanıklıdır?,non-tech,questions6_csv
+Telefonumda virüs var mı,tech,questions6_csv
+Telefonumun hafızasını nasıl temizleyebilirim?,tech,questions6_csv
+"Telefonumda sık sık karşılaştığım ""uygulama yanıt vermiyor"" sorununun nedenleri",tech,questions6_csv
+Bluetooth kulaklık bağlantısı neden kesilir ve çözümü nedir?,tech,questions6_csv
+Telefonumda yer açmak için hangi dosyaları silmeliyim ve hangi uygulamaları kullanabilirim?,tech,questions6_csv
+Hangi işletim sistemi daha güvenli ve daha az savunmasızdır?,tech,questions6_csv
+C++ dilinde dinamik bellek yönetimi nasıl yapılır?,tech,questions6_csv
+What is the difference between a virus and a malware?,tech,questions6_csv
+Uygun fiyatlı bir akıllı telefon önerir misiniz?,tech,questions6_csv
+Hangi markanın kulaklıkları en iyi ses kalitesini sağlar?,tech,questions6_csv
+What are some good resources to learn coding for beginners?,tech,questions6_csv
+Bilgisayarımın depolama alanını nasıl artırabilirim?,tech,questions6_csv
+Bilgisayarımda virüs nasıl tespit edilir ve silinir?,tech,questions6_csv
+How can we use data mining to identify patterns and trends in large data sets?,tech,questions6_csv
+Hangi programlama dili oyun geliştirme için daha uygun?,tech,questions6_csv
+Bilgisayarda bellek (RAM) nasıl yükseltilir?,tech,questions6_csv
+How to backup important data on a computer or a phone?,tech,questions6_csv
+How can I improve my Wi-Fi signal strength at home?,tech,questions6_csv
+Tornavida kullanırken nelere dikkat etmeliyim ve hangi tür tornavida hangi durumlarda kullanılmalıdır?,tech,questions6_csv
+Hangi sanal özel ağ (VPN) sağlayıcıları daha güvenlidir?,tech,questions6_csv
+Hangi web tarayıcısı daha hızlı ve daha güvenlidir?,tech,questions6_csv
+What are some common cybersecurity risks associated with remote work and how can they be mitigated?,tech,questions6_csv
+What are the key principles of user-centered design and how can they be applied in web development?,tech,questions6_csv
+Telefonumun şarj ömrünü nasıl uzatabilirim?,tech,questions6_csv
+Web sitelerinin SEO uyumlu olması için nelere dikkat edilmelidir?,tech,questions6_csv
+E-ticaret sitelerinin kullanıcı deneyimini geliştirmek için nelere dikkat edilmelidir?,tech,questions6_csv
+Hangi online eğitim platformları ücretsiz veya düşük maliyetlidir?,tech,questions6_csv
+How can I transfer files between my phone and my computer?,tech,questions6_csv
+Hangi akıllı telefon kameraları daha iyi performans gösterir?,tech,questions6_csv
+Çamaşır makinesi nasıl tamir edilir?,tech,questions6_csv
+How can we use virtual reality to enhance the learning experience in education?,tech,questions6_csv
+Instagram'da etkili reklam kampanyaları nasıl oluşturulur?,tech,questions6_csv
+Telefonumun şarjı hızlı bir şekilde bitiyor,tech,questions6_csv
+Photoshop programında Layers Paneli ne işe yarar?,tech,questions6_csv
+Robotlar gelecekte insanların yerini alacak mı?,tech,questions6_csv
+Canlı yayın platformu Twitch'te kanal açmak için gerekenler nelerdir?,tech,questions6_csv
+Hangi programlama dilleri,tech,questions6_csv
+What are some common coding languages used in artificial intelligence and machine learning?,tech,questions6_csv
+Kullanmadığım dosyaları nasıl silerim ve bilgisayarımı temizlerim?,tech,questions6_csv
+Hangi web tarayıcısı en hızlıdır?,tech,questions6_csv
+What is the difference between RAM and ROM?,tech,questions6_csv
+How to troubleshoot network connection problems on Windows?,tech,questions6_csv
+YouTube'da video SEO nasıl yapılır?,tech,questions6_csv
+What are the best practices for cybersecurity in the workplace?,tech,questions6_csv
+Hangi programlama dili gelecekte daha popüler olacak?,tech,questions6_csv
+Hangi antivirüs programları güvenilir ve hangi özelliklere sahip olmalıdır?,tech,questions6_csv
+Unity kullanarak 3D oyun nasıl yapılır?,tech,questions6_csv
+Geçen hafta sonu ne yaptın? (What did you do last weekend?),non-tech,questions6_csv
+İnsan beyni kaç gigabayt hafızaya sahiptir?,tech,questions6_csv
+Depolama birimi olarak SSD mi HDD mi seçmeliyim?,tech,questions6_csv
+What is the difference between a laptop and a tablet?,tech,questions6_csv
+İnternet bağlantım neden yavaş?,tech,questions6_csv
+What is the difference between a keyboard and a mouse?,tech,questions6_csv
+Web sitelerinin performansını artırmak için kullanılan teknikler nelerdir?,tech,questions6_csv
+How can we use natural language processing to improve chatbot functionality?,tech,questions6_csv
+Televizyonumun ekranı karardı,tech,questions6_csv
+Akıllı ev sistemleri nelerdir ve nasıl kurulur?,tech,questions6_csv
+How can I create a strong and secure password for my accounts?,tech,questions6_csv
+Kullanmadığım uygulamaları nasıl kaldırabilirim?,tech,questions6_csv
+AYakkabıma kum doldu atmaya gerek var mı ?,non-tech,kisasorular_csv
+Akşam yemeği tavsiyesi verebilir misin?,non-tech,kisasorular_csv
+Bana film önerir misin?,non-tech,kisasorular_csv
+Bu evrende kaç gezegen var?,non-tech,kisasorular_csv
+yeni insanlarla nasıl tanışılır?,non-tech,kisasorular_csv
+Patates nasıl kızartılır?,non-tech,kisasorular_csv
+Rüyada kedi görmek ne anlama gelir?,non-tech,kisasorular_csv
+ramazan nedir?,non-tech,kisasorular_csv
+Diyabet hastalığı neden ve nasıl gelişir?,non-tech,kisasorular_csv
+Kolonya nasıl yapılır,non-tech,kisasorular_csv
+Ketçap mı daha güzel yoksa mayonez mi?,non-tech,kisasorular_csv
+Plastik tüketmenin zararları nelerdir?,non-tech,kisasorular_csv
+yumurta nasıl yapılır?,non-tech,kisasorular_csv
+Deodorant ne işe yarar?,non-tech,kisasorular_csv
+Kafamda filler cinsel ilişkiye giriyorsa ne yapmalıyım,non-tech,kisasorular_csv
