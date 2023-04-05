@@ -5,7 +5,6 @@ I enjoy cooking,non-tech,tech_csv_xlsx
 "I prefer using a digital calendar over a physical one.,1",tech,tech_csv_xlsx
 "I think online shopping is very convenient.,1",non-tech,tech_csv_xlsx
 "I'm interested in learning about the history of ancient civilizations.,0",non-tech,tech_csv_xlsx
-Social media can also have negative effects on mental health.,non-tech,tech_csv_xlsx
 "I'm amazed by how much storage capacity is available on modern devices.,1",tech,tech_csv_xlsx
 "I'm saving up to buy a new laptop for gaming.,1",tech,tech_csv_xlsx
 I think online education can be a more affordable option for many people.,non-tech,tech_csv_xlsx
@@ -17,14 +16,11 @@ I think online education can be a more affordable option for many people.,non-te
 "I think the internet is a powerful tool for education.,1",tech,tech_csv_xlsx
 "I'm concerned about the privacy implications of facial recognition technology.,1",tech,tech_csv_xlsx
 "I'm impressed by the advancements in renewable energy.,1",tech,tech_csv_xlsx
-"I'm interested in learning about the benefits of meditation.,0",non-tech,tech_csv_xlsx
 "I love watching movies on my smart TV.,1",non-tech,tech_csv_xlsx
 "I'm learning to code so I can build my own website.,1",tech,tech_csv_xlsx
 "I need to buy a new laptop for work.,1",non-tech:tech,tech_csv_xlsx
 "I find it challenging to learn a new language.,0",non-tech,tech_csv_xlsx
 "I prefer using a wireless keyboard and mouse over a wired one.,1",tech,tech_csv_xlsx
-"Social media algorithms can influence the information we see online.,0",non-tech,tech_csv_xlsx
-"I'm interested in the potential of augmented reality for education and entertainment.,1",non-tech,tech_csv_xlsx
 "I'm excited to see what new technology will be invented in the future.,1",tech,tech_csv_xlsx
 "Video conferencing has become a staple of modern communication.,1",tech,tech_csv_xlsx
 "The use of voice assistants like Siri and Alexa is becoming more common.,1",tech,tech_csv_xlsx
@@ -32,7 +28,6 @@ I think online education can be a more affordable option for many people.,non-te
 "Smart home technology can make your life more convenient.,1",tech,tech_csv_xlsx
 "Virtual reality has the potential to revolutionize entertainment.,1",tech,tech_csv_xlsx
 "I think robots will become more common in the workplace.,1",tech,tech_csv_xlsx
-"I'm saving up to buy a new gaming console.,1",non-tech:tech,tech_csv_xlsx
 "The field of biotechnology has the potential to improve many aspects of life.,1",tech,tech_csv_xlsx
 "I'm excited to try the new virtual reality game.,1",tech,tech_csv_xlsx
 "The rise of artificial intelligence is changing the world.,1",tech,tech_csv_xlsx
@@ -178,7 +173,7 @@ How do you change the oil in a car?,tech,questions_csv
 How do I organize my closet efficiently?,non-tech,questions2_csv
 What are some good ways to manage my finances?,non-tech,questions2_csv
 How do I make homemade pizza dough?,non-tech,questions2_csv
-How can I optimize my social media marketing strategy?,tech:non-tech,questions2_csv
+How can I optimize my social media marketing strategy?,non-tech:tech,questions2_csv
 What is the best way to optimize a website for mobile devices?,tech,questions2_csv
 How can I improve my writing skills?,non-tech,questions2_csv
 How can I develop a morning routine that works for me?,non-tech,questions2_csv
@@ -346,26 +341,26 @@ What are some good ways to secure my online accounts with biometric authenticati
 How can I protect my online accounts with two-factor authentication?,tech,questions4_csv
 How do I upgrade the graphics card in my gaming laptop?,tech,questions4_csv
 How can I recover a corrupted hard drive?,tech,questions4_csv
-What are some effective ways to prevent online harassment?,non-tech:tech,questions4_csv
+What are some effective ways to prevent online harassment?,tech:non-tech,questions4_csv
 What are some effective ways to prevent online stalking?,non-tech,questions4_csv
 How can I recover a forgotten password on my social media account?,tech,questions4_csv
-What are some effective ways to prevent online fraud?,non-tech:tech,questions4_csv
+What are some effective ways to prevent online fraud?,tech:non-tech,questions4_csv
 How can I optimize the storage space on my smartphone?,tech,questions4_csv
-What are some effective ways to prevent online scams?,non-tech:tech,questions4_csv
+What are some effective ways to prevent online scams?,tech:non-tech,questions4_csv
 How do I troubleshoot display issues with my gaming monitor?,tech,questions4_csv
 How can I optimize my website for search engines?,tech,questions4_csv
 How do I install a new graphics card in my computer?,tech,questions4_csv
 How do I optimize the speed of my internet connection?,tech,questions4_csv
 How can I recover deleted photos from my camera?,tech,questions4_csv
 What are some good ways to secure my online accounts with strong passwords?,tech,questions4_csv
-What are some good ways to secure my online transactions?,non-tech:tech,questions4_csv
+What are some good ways to secure my online transactions?,tech:non-tech,questions4_csv
 What are some good ways to protect my online privacy?,tech,questions4_csv
 What are some effective ways to protect my computer from malware?,tech,questions4_csv
 How do I troubleshoot connection issues with my wireless headphones?,tech,questions4_csv
 How do I troubleshoot network connection issues?,tech,questions4_csv
 How do I troubleshoot audio issues with my tablet?,tech,questions4_csv
 How do I upgrade the firmware on my smart TV?,tech,questions4_csv
-What are some effective ways to prevent identity theft?,tech:non-tech,questions4_csv
+What are some effective ways to prevent identity theft?,non-tech:tech,questions4_csv
 What are some good ways to backup my important data?,tech,questions4_csv
 How can I improve the Wi-Fi signal strength in my home?,tech,questions4_csv
 How do I upgrade the RAM in my desktop computer?,tech,questions4_csv
@@ -400,7 +395,7 @@ How can I improve my focus and concentration during work or study?,non-tech,ques
 Hamilelikte beslenme nasıl olmalıdır?,non-tech,questions5_csv
 9- Dijital müzik kaydı ve stüdyo ekipmanları hakkında bilinmesi gerekenler nelerdir?,tech,questions5_csv
 Yeni bir dil öğrenmenin en etkili yolu nedir ve neden?,non-tech,questions5_csv
-3- Dünya genelinde en çok kullanılan sosyal medya platformları nelerdir ve popülerlikleri neye bağlıdır?,non-tech:tech,questions5_csv
+3- Dünya genelinde en çok kullanılan sosyal medya platformları nelerdir ve popülerlikleri neye bağlıdır?,tech:non-tech,questions5_csv
 How can I reduce my carbon footprint and live a more eco-friendly lifestyle?,non-tech,questions5_csv
 Düzenli uyku almak neden önemlidir?,non-tech,questions5_csv
 How can I overcome procrastination and be more productive?,non-tech,questions5_csv
@@ -409,7 +404,7 @@ Hangi yeni teknolojik yenilikler gelecekte hayatımızı nasıl değiştirebilir
 Hangi sporlar ve egzersizler depresyon,non-tech,questions5_csv
 Şarjı hızlı biten telefonlar için önerileriniz nelerdir?,tech,questions5_csv
 What is the best way to start a small business?,non-tech,questions5_csv
-10- Yapısal olarak zarar görmüş beton duvarların onarımı nasıl yapılır ve hangi teknikler kullanılır?,tech:non-tech,questions5_csv
+10- Yapısal olarak zarar görmüş beton duvarların onarımı nasıl yapılır ve hangi teknikler kullanılır?,non-tech:tech,questions5_csv
 Hangi akıllı telefon kamerası en iyisidir?,tech,questions5_csv
 İyi bir kulaklık nasıl seçilir?,tech,questions5_csv
 12- Havadaki nem oranı nasıl ölçülür ve hangi uygulamaları vardır?,tech,questions5_csv
@@ -813,7 +808,7 @@ Who is the current Secretary-General of the United Nations?,non-tech,sonsorular_
 Pasaport nasıl çıkartılır?,non-tech,sonsorular_csv
 biçimsel diller ne demektir?,tech,sonsorular_csv
 Vergi borcunu nereye ödemeliyim?,non-tech,sonsorular_csv
-How has social media changed the way we communicate with each other?,tech:non-tech,sonsorular_csv
+How has social media changed the way we communicate with each other?,non-tech:tech,sonsorular_csv
 Bir insanın günde kaç litre su içmesi gerekir?,non-tech,sonsorular_csv
 Futbolda top filelere değdiğinde bu ne anlama gelir?,non-tech,sonsorular_csv
 En iyi araba üreticisi hangi şirkettir?,tech,sonsorular_csv
@@ -952,7 +947,6 @@ What are the causes and effects of climate change?,non-tech,sonsorular_csv
 What is the significance of the Great Wall of China?,non-tech,sonsorular_csv
 Fransa'nın en ünlü avukatı kimdir?,non-tech,sonsorular_csv
 Bilişsel sinir ağı ne demektir?,tech,sonsorular_csv
-What is the origin of the Olympic Games?,non-tech,sonsorular_csv
 Chatgpt insanların hayatında neyi değiştirdi?,tech,sonsorular_csv
 Beyaz et mi yemeliyiz yoksa kırmızı et mi yemeliyiz?,non-tech,sonsorular_csv
 Who was the first person to discover penicillin?,non-tech,sonsorular_csv
@@ -961,10 +955,8 @@ Bir yapay zeka modelinin en iyi şekilde öğrenim yapabilmesi için ortalama ka
 Telefonumun ekranı çatladı ne yapmalıyım ?,tech,sonsorular_csv
 Laptobum taktığım rami görmüyor,tech,sonsorular_csv
 İnternet hızımı nasıl öğrenebilirim ?,tech,sonsorular_csv
-What is the significance of the Berlin Wall?,non-tech,sonsorular_csv
 Buzdolabımın ışığı yanmıyor nasıl tamir edebilirim?,tech,sonsorular_csv
 Android ve ios işletim sistemi arasındaki en temel fark nedir?,tech,sonsorular_csv
-What are the pros and cons of renewable energy sources?,tech,sonsorular_csv
 Ekranımın kaç hz olduğunu nasıl öğrenebilirim?,tech,sonsorular_csv
 Pythonda verilerimi nasıl görselleştirebilirim?,tech,sonsorular_csv
 Basketbol oynarken bir sahada kaç oyuncu olmalıdır?,non-tech,sonsorular_csv
@@ -998,3 +990,9 @@ Telefonumu nasıl hızlandırabilirim?,tech,sonson_csv
 telefonumun şifresini unuttum ne yapmalıyım?,tech,sonson_csv
 Bilgisayarıma hangi anakartı takmalıyım?,tech,sonson_csv
 Bir laptopta gücü sağlayan bileşen hangisidir?,tech,sonson_csv
+kerevizde hangi vitaminler bulunur?,non-tech,improveddata_csv
+terminalde dosya değiştirme komutu nedir?,tech,improveddata_csv
+elon musk kimdir?,tech,improveddata_csv
+ramazan bayramı ne zaman?,non-tech,improveddata_csv
+halüsinasyon görüyorsam hangi doktora gitmeliyim?,non-tech,improveddata_csv
+bulut sistemiyle çalışmanın avantajı nedir?,tech,improveddata_csv
