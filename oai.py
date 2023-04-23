@@ -41,6 +41,7 @@ messages = [
 window = tk.Tk()
 window.title("Tamirci")
 window.geometry("1600x900")
+window['background']='#856ff8'
 window.resizable(0,0)
 
 '''
