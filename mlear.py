@@ -9,4 +9,3 @@ def classify_text(text):
     result = ml.classifiers.classify(model_id, data)
     is_tech = any(classification['tag_name'] == 'tech' for classification in result.body[0]['classifications'])
     return is_tech
-    ##print(result.body)
