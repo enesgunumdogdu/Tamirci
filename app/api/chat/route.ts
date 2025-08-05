@@ -1,6 +1,6 @@
 import { NextRequest, NextResponse } from 'next/server'
-import { generateChatResponse, ChatMessage } from '@/app/lib/openai'
-import { classifyText } from '@/app/lib/monkeylearn'
+import { generateChatResponse, ChatMessage } from '../../lib/openai'
+import { classifyText } from '../../lib/monkeylearn'
 
 const NON_TECH_RESPONSE = 'I am Tamirci technical assistant, developed to answer only technical questions. If you think I made an error and your question is technical, please try asking it differently.'
 
