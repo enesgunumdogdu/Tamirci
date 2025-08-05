@@ -40,11 +40,6 @@ window.geometry("1600x900")
 window['background']='#856ff8'
 window.resizable(0,0)
 
-'''
-def show_message():
-    tkinter.messagebox.showinfo("Tamirci","Merhaba, Tamirci teknik asistana hoşgeldiniz!")
-'''
-
 user_input = tk.Entry(window, width=50, borderwidth=5)
 user_input.pack()
 
