@@ -1,5 +1,5 @@
 import { NextRequest, NextResponse } from 'next/server'
-import { classifyText } from '../../lib/monkeylearn'
+import { classifyText } from '@/app/lib/monkeylearn'
 
 export async function POST(request: NextRequest) {
   try {
