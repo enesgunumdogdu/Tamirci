@@ -1,7 +1,7 @@
 'use client'
 
 import { useState, useEffect, useRef } from 'react'
-import { Message } from '@/app/types'
+import { Message } from '../types'
 import ChatMessage from './ChatMessage'
 import ChatInput from './ChatInput'
 import { Bot, Wrench } from 'lucide-react'
